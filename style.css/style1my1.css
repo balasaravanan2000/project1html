@@ -1,0 +1,23 @@
+#head{
+    background-color: blanchedalmond;
+    text-align: center;
+    text-emphasis-color:rgb(53, 53, 247) ;
+}
+#head1{
+    background-color: darkgray;
+    text-align: left;
+    text-emphasis-color:rgb(19, 19, 22)
+     ;
+}
+.para {
+    background-color: lightcoral;
+    text-align:left;
+    text-emphasis-color: rgb(17, 16, 16);
+}
+.image {
+    background-color: rgb(1, 14, 12);
+}
+.tabl{
+    background-color: rgb(75, 235, 211);
+}
+
