@@ -1,23 +1,32 @@
-#head{
-    background-color: blanchedalmond;
+head{
+    background-color: rgb(231, 186, 118);
     text-align: center;
     text-emphasis-color:rgb(53, 53, 247) ;
 }
-#head1{
-    background-color: darkgray;
+body{
+    background-color: rgb(247, 175, 191);
+    background-image: url(../images/beautiful-fall-trees-with-bright-blue-sky-picjumbo-com.jpeg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: right top;
+    background-attachment: scroll;
+     margin-right: 800px; 
+}
+.h{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.para{
+    font-size: 25px;
+    color: rgb(26, 20, 25);; 
     text-align: left;
-    text-emphasis-color:rgb(19, 19, 22)
-     ;
 }
-.para {
-    background-color: lightcoral;
-    text-align:left;
-    text-emphasis-color: rgb(17, 16, 16);
-}
-.image {
-    background-color: rgb(1, 14, 12);
-}
-.tabl{
-    background-color: rgb(75, 235, 211);
+
+
+th,td{
+    color: aliceblue;
+    border-color: black;
+    border-style: outset;
+    background-color: rgb(12, 17, 16);
 }
 
