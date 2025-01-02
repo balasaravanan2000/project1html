@@ -1,16 +1,14 @@
-head{
-    background-color: rgb(231, 186, 118);
-    text-align: center;
-    text-emphasis-color:rgb(53, 53, 247) ;
-}
+
+
 body{
     background-color: rgb(247, 175, 191);
     background-image: url(../images/beautiful-fall-trees-with-bright-blue-sky-picjumbo-com.jpeg);
     background-repeat: no-repeat;
-    background-size:contain;
-    background-position: right top;
-    background-attachment: scroll;
-     margin-right: 800px; 
+    background-size: contain;
+    background-position: right top ;
+    background-attachment:fixed;
+     margin-right: 650px; 
+     padding-bottom: 100px;
 }
 .h{
     background-color: blanchedalmond;
@@ -29,4 +27,3 @@ th,td{
     border-style: outset;
     background-color: rgb(12, 17, 16);
 }
-

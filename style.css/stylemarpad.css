@@ -1,0 +1,23 @@
+.box{
+    width: 100px;
+    height: 100px;
+    
+}
+.one{
+    background-color: rgb(241, 20, 20);
+    color: azure;
+    margin: 100px;
+
+}
+.two{
+    background-color: blue;
+    color: aliceblue;
+    padding: 100px; 
+}   
+.three{
+    background-color: black;
+    color: azure;
+    margin: 100px;
+    padding: 100px;
+
+}    
